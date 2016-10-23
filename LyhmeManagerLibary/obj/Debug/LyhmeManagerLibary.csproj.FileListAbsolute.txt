@@ -1,0 +1,12 @@
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\obj\Debug\LyhmeManagerLibary.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\LYHMEAPI.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\LYHMEAPI.pdb
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\obj\Debug\LYHMEAPI.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\obj\Debug\LYHMEAPI.pdb
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\Assembly-CSharp.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\Rocket.API.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\Rocket.Core.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\Rocket.Unturned.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\UnityEngine.dll
+c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Debug\Uconomy.dll
