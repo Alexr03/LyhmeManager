@@ -25,7 +25,7 @@ namespace LYHMEManager
         protected override void Load()
         {
             Keys.CheckKey(Configuration.Instance.Key);
-            if(Keys.t)    
+            if(Keys.t)
             {
                 Instance = this;
 

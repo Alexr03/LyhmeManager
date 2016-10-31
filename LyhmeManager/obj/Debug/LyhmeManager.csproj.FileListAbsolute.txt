@@ -12,7 +12,3 @@ c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\bi
 c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\obj\Debug\LYHMEAssets.dll
 c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\obj\Debug\LYHMEAssets.pdb
 c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Debug\System.Drawing.dll
-c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Debug\I18N.dll
-c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Debug\I18N.West.dll
-c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Debug\MySql.Data.dll
-c:\users\alex\documents\visual studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Debug\Uconomy.dll
