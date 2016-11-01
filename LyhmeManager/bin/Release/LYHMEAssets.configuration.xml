@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LYHMEManagerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>alexr03</Key>
+  <VehicleLicenseNeeded>false</VehicleLicenseNeeded>
+  <KickMessage>You have been kicked for using antispy</KickMessage>
+  <LicensePrice>500</LicensePrice>
+  <RotateMap>false</RotateMap>
+  <LinkManager>
+    <Link>
+      <Name>website</Name>
+      <Permission>website</Permission>
+      <Message>Gives link to website</Message>
+      <URL>http://lyhme.net/</URL>
+    </Link>
+  </LinkManager>
+  <RotatingMaps>
+    <Maps>
+      <Map>PEI</Map>
+    </Maps>
+    <Maps>
+      <Map>ffff</Map>
+    </Maps>
+    <Maps>
+      <Map>LYHMENAPFGA</Map>
+    </Maps>
+    <Maps>
+      <Map>fDWQ</Map>
+    </Maps>
+    <Maps>
+      <Map>egetretff</Map>
+    </Maps>
+    <Maps>
+      <Map>fgryrhf</Map>
+    </Maps>
+  </RotatingMaps>
+</LYHMEManagerConfiguration>

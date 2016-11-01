@@ -1,1 +1,17 @@
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\obj\Release\LyhmeManager.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\LYHMEAssets.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\LYHMEAssets.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Assembly-CSharp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\LYHMEAPI.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Rocket.API.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Rocket.Core.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Rocket.Unturned.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\System.Drawing.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\UnityEngine.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\LYHMEAPI.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\obj\Release\LYHMEAssets.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\obj\Release\LYHMEAssets.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Uconomy.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\I18N.West.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\I18N.dll
