@@ -1,4 +1,4 @@
 language: csharp
 solution: LyhmeManager.sln
 script:
-  - xbuild /p:Configuration=Debug LyhmeManager.sln
+  - xbuild /p:Configuration=Release LyhmeManager.sln
