@@ -5,6 +5,7 @@ using System.Text;
 using fr34kyn01535.Uconomy;
 using Steamworks;
 using System.IO;
+using System.Net;
 
 namespace LyhmeManagerLibary
 {

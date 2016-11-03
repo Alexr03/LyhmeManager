@@ -13,6 +13,7 @@ using UnityEngine;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.ComponentModel;
 
 namespace LYHMEManager
 {
@@ -146,7 +147,7 @@ namespace LYHMEManager
             {
                 System.Drawing.Image img = System.Drawing.Image.FromFile(CommandCheckAnti.directory + "/Spy/" + v.CSteamID + ".jpg");
 
-                if (img.Height >= 639 || img.Width >= 749)
+                if (img.Height == 639 || img.Width == 749)
                 {
                     Rocket.Core.Logging.Logger.Log("User: " + v.CharacterName + " Screenshot matches fake screenshots!");
                     CommandCheckAnti.BlacklistIDs.Add(v.CSteamID);
