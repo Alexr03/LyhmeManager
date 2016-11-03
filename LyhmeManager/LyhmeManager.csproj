@@ -41,25 +41,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>lib\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
-    <Reference Include="Common.Logging, Version=2.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
-      <HintPath>..\packages\Common.Logging.2.0.0\lib\2.0\Common.Logging.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="Jenkins.Core, Version=2.1.2.22051, Culture=neutral, PublicKeyToken=2f531e0c1c11a32b, processorArchitecture=MSIL">
-      <HintPath>..\packages\Jenkins.Core.2.1.2.22051\lib\net45\Jenkins.Core.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="Jenkins.Domain, Version=2.1.1.22017, Culture=neutral, PublicKeyToken=2f531e0c1c11a32b, processorArchitecture=MSIL">
-      <HintPath>..\packages\Jenkins.Domain.2.1.1.22017\lib\net45\Jenkins.Domain.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="LYHMEAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>lib\LYHMEAPI.dll</HintPath>
-    </Reference>
-    <Reference Include="MySql.Data">
-      <HintPath>..\..\..\..\..\Desktop\ucon\Libraries\MySql.Data.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.6.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
