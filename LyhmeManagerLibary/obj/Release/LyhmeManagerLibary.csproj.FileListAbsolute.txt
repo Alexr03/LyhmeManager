@@ -9,4 +9,3 @@ C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManagerLib
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Release\UnityEngine.dll
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\obj\Release\LYHMEAPI.dll
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\obj\Release\LYHMEAPI.pdb
-C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManagerLibary\bin\Release\Uconomy.dll
