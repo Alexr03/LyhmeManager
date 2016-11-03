@@ -15,6 +15,4 @@ C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bi
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\I18N.West.dll
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\I18N.dll
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\LYHMEAssets.dll.config
-C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Newtonsoft.Json.dll
-C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\Newtonsoft.Json.xml
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\LyhmeManager\LyhmeManager\bin\Release\LYHMEAPI.pdb
